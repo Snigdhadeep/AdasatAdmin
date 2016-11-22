@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         webview=(WebView)findViewById(R.id.web);
 
 
-        webview.loadUrl("https://www.youtube.com");
+        webview.loadUrl("http://104.236.11.215/web");
 
 }
 }
